@@ -24,7 +24,7 @@ ul {
 }
 
 a {
-  color: #fff;
+  color: rgb(210, 220, 235);
   text-decoration: none;
 }
 
@@ -79,7 +79,7 @@ header.inner {
 
 /* Buttons */
 .btn {
-  color: #fff;
+  color:rgb(210, 220, 235);
   padding: 0.6rem;
   border: 1px solid #ccc;
   transition: all 0.7s;
@@ -88,7 +88,7 @@ header.inner {
 .btn:hover {
   background: var(--primary-color);
   border: 1px solid var(--primary-color);
-  color: #fff;
+  color:rgb(210, 220, 235);
 }
 
 .btn-reverse {
@@ -116,7 +116,7 @@ header.inner {
 .search-wrap h1 {
   font-size: 3rem;
   font-weight: 800;
-  color: #fff;
+  color: rgb(210, 220, 235);
   margin: 0 0 1.5rem;
   text-align: center;
 }
@@ -124,7 +124,7 @@ header.inner {
 .search-form input[type='submit'] {
   background: var(--primary-color);
   border: 1px solid var(--primary-color);
-  color: #fff;
+  color: rgb(210, 220, 235);
   padding: 0 2rem;
   cursor: pointer;
   transition: all 0.8s;
